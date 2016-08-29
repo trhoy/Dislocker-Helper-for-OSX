@@ -1,5 +1,5 @@
 
-# Bitlocker OSX Unlocker
+# Dislocker Helper for OSX
 
 
 ## Description
